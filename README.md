@@ -13,3 +13,5 @@ The data (Temperature, Humidity, Pressure, Luminosity, Luxes) is logged in the c
 
 The file "SCP_v30_05_Temperature_humidity_and_pressure_sensorB.pde" is the code uploaded to the Libellium to produce the specific sensor readings output in the serial port.
 
+The software has been tested in Ubuntu 20.04 LTS
+
